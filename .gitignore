@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pem
+*.key
+password.txt
+*.db
+*.sqlite
+*.log
+persist/
+__pycache__/
+*.py[cod]
+node_modules/
+*.exe
+*.dll
+.DS_Store
